@@ -1,0 +1,8 @@
+<suite name="Suite">
+    <test name="Test">
+        <classes>
+            <class name="com.sf.project.BaseSeleniumClass"/>
+            <class name="com.sf.project.Script_PurchaseTV"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
